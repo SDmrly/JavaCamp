@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCampDay1/JavaCampDay1.iml" filepath="$PROJECT_DIR$/JavaCampDay1/JavaCampDay1.iml" />
+    </modules>
+  </component>
+</project>
