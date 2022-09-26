@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="08f33c3a-043b-499a-afb7-4fb3f0fa7cba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay1/src/Main.java" afterDir="false" />
+    <list default="true" id="43b59f89-04e6-4a2a-8de4-ddab57ae1255" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/JavaCampDay2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Classes/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Classes/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/DataTypes/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Fields/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Fields/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Fields/ProductMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Inheritance/PersonMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/InheritanceDemo/AskerKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/InheritanceDemo/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/InheritanceDemo/InherticanceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/InheritanceDemo/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/InheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/InheritanceDemo/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/MethodOverloading/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/MethodOverloading/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/Methods/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/RecapDemo_Classes/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay2/src/RecapDemo_Classes/DortIslemClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,20 +55,35 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EwiNOEAEDeeTJ46qzixwEzVlDD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "E:/JavaCourse/JavaCamp"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaCourse/JavaCamp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaCampDay2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaCampDay1" />
@@ -47,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -54,12 +101,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08f33c3a-043b-499a-afb7-4fb3f0fa7cba" name="Changes" comment="" />
+      <changelist id="43b59f89-04e6-4a2a-8de4-ddab57ae1255" name="Changes" comment="" />
       <created>1663513009179</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663513009179</updated>
       <workItem from="1663513010747" duration="154000" />
+      <workItem from="1663569212634" duration="15000" />
+      <workItem from="1664009467866" duration="6822000" />
+      <workItem from="1664099454915" duration="8609000" />
+      <workItem from="1664168451197" duration="6433000" />
     </task>
     <servers />
   </component>
