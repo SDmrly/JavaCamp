@@ -5,18 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b59f89-04e6-4a2a-8de4-ddab57ae1255" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/HomeWork1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/BaseCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/CarCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/CreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/CreditService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/MilitaryCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork1/src/TeacherCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/HomeWork2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractClasses/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractClasses/GameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractClasses/KidGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractClasses/ManGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractClasses/OlderGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractClasses/WomenGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractDemo/AbstractDemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractDemo/BaseDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractDemo/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractDemo/MySqlManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractDemo/OracleDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/AbstractDemo/SqlServerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Interfaces/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Interfaces/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Interfaces/InterfacesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Interfaces/MySqlCustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Interfaces/OracleCustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/InterfacesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/OutSourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/RobotWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/InterfacesDemo/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Overriding/AgriCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Overriding/BaseCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Overriding/OverridingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Overriding/StudentCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Overriding/TeacherCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/BaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/Polymorphism/PolymorphismMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/StaticDemo/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/StaticDemo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/StaticDemo/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/StaticDemo/ProductValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCampDay3/HomeWork2/src/StaticDemo/StaticDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,27 +78,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "E:/JavaCourse/JavaCamp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaCourse/JavaCamp/JavaCampDay3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main (3)">
+}</component>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaCampDay2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -110,7 +150,8 @@
       <workItem from="1664986516095" duration="8940000" />
       <workItem from="1665049193650" duration="116000" />
       <workItem from="1665221986494" duration="1991000" />
-      <workItem from="1665242736779" duration="7147000" />
+      <workItem from="1665242736779" duration="7561000" />
+      <workItem from="1665298812227" duration="13153000" />
     </task>
     <servers />
   </component>
